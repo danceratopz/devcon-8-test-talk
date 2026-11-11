@@ -3,7 +3,7 @@
 Protocol-native execution client system tests, 10-??x faster. Devcon 8, Mumbai, 6 November 2026, by Dan ([danceratopz](https://github.com/danceratopz)).
 
 - **Recording:** [YouTube](https://www.youtube.com/watch?v=JAXXol5mALU)
-- **Slides:** [danceratopz.github.io/devcon-8-test-talk](https://danceratopz.github.io/devcon-8-test-talk/) (arrow keys or tap to move, `F` for full screen, `#N` for slide N)
+- **Slides:** [danceratopz.github.io/devcon-8-test-talk](https://danceratopz.github.io/devcon-8-test-talk/) (arrow keys/tap to move, `F` for full screen, `#N` for slide N)
 
 [![Title slide: Honey, I Shrunk the Test Run. Protocol-native execution client system tests, 10-??x faster.](title-slide.jpg)](https://www.youtube.com/watch?v=JAXXol5mALU)
 
